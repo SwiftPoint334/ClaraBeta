@@ -32,4 +32,4 @@ async def _warn(ctx, user, reason):
 
 
 
-client.run("Nzk4NTYyMDUwODA0MTU0MzY4.X_203Q.lzdXznZ27-b3OjhAAqVTOBZSPf4")
+client.run("-")
